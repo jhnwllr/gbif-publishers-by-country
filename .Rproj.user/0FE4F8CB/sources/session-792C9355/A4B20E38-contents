@@ -22,4 +22,8 @@ glimpse()
 Table last updated : `r Sys.Date()`
 `r knitr::kable(tt)`
 
+```{r exports, echo=FALSE,include=FALSE}
 
+tt %>% readr::write_tsv("exports/gbif-publishers-by-country.tsv")
+tt %>% openxlsx::write.xlsx("exports/gbif-publishers-by-country.xlsx")
+```
