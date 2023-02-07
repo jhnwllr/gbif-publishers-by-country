@@ -1,0 +1,18 @@
+library(dplyr)
+library(purrr)
+
+pub_count = function(x) {
+url = paste0("https://www.gbif.org/api/publisher/search?country=",x,"&isEndorsed=true") 
+jsonlite::fromJSON(url)$count
+}
+
+tt = rgbif::enumeration_country() %>%
+head(10) %>%
+mutate(n_publishers = map_dbl(iso2,~pub_count(.x))) %>% 
+select(iso2,title,gbifRegion,n_publishers) %>% 
+arrange(n_publishers) %>%
+glimpse()
+
+
+
+
