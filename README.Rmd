@@ -3,7 +3,7 @@ library(dplyr)
 library(purrr)
 ```
 
-## publisher count by country 
+## publisher count by iso2 places
 
 ```{r publisher count, echo=FALSE,include=FALSE}
 pub_count = function(x) {
@@ -12,12 +12,13 @@ jsonlite::fromJSON(url)$count
 }
 
 tt = rgbif::enumeration_country() %>%
-head(10) %>%
 mutate(n_publishers = map_dbl(iso2,~pub_count(.x))) %>% 
 select(iso2,title,gbifRegion,n_publishers) %>% 
 arrange(-n_publishers) %>%
 glimpse()
 ```
+
+Current number of registered publishers. 
 
 Table last updated : `r Sys.Date()`
 `r knitr::kable(tt)`
