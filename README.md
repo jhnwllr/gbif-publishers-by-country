@@ -6,22 +6,22 @@
 
 Current number of registered publishers. 
 
-Table last updated : 2023-04-01
+Table last updated : 2023-05-01
 
 
 |iso2 |title                                                |gbifRegion    | n_publishers|
 |:----|:----------------------------------------------------|:-------------|------------:|
-|US   |United States of America                             |NORTH_AMERICA |          340|
+|US   |United States of America                             |NORTH_AMERICA |          355|
 |CO   |Colombia                                             |LATIN_AMERICA |          200|
 |GB   |United Kingdom of Great Britain and Northern Ireland |EUROPE        |          181|
 |RU   |Russian Federation                                   |EUROPE        |          128|
 |ES   |Spain                                                |EUROPE        |          128|
-|BR   |Brazil                                               |LATIN_AMERICA |          110|
-|AU   |Australia                                            |OCEANIA       |          109|
+|BR   |Brazil                                               |LATIN_AMERICA |          113|
+|AU   |Australia                                            |OCEANIA       |          108|
 |FR   |France                                               |EUROPE        |           63|
-|CA   |Canada                                               |NORTH_AMERICA |           56|
-|EC   |Ecuador                                              |LATIN_AMERICA |           55|
-|AR   |Argentina                                            |LATIN_AMERICA |           54|
+|EC   |Ecuador                                              |LATIN_AMERICA |           60|
+|CA   |Canada                                               |NORTH_AMERICA |           57|
+|AR   |Argentina                                            |LATIN_AMERICA |           56|
 |CL   |Chile                                                |LATIN_AMERICA |           54|
 |NL   |Netherlands                                          |EUROPE        |           45|
 |DE   |Germany                                              |EUROPE        |           44|
@@ -32,8 +32,8 @@ Table last updated : 2023-04-01
 |DK   |Denmark                                              |EUROPE        |           27|
 |PT   |Portugal                                             |EUROPE        |           27|
 |BE   |Belgium                                              |EUROPE        |           25|
+|SE   |Sweden                                               |EUROPE        |           25|
 |UA   |Ukraine                                              |EUROPE        |           25|
-|SE   |Sweden                                               |EUROPE        |           24|
 |IN   |India                                                |ASIA          |           23|
 |IT   |Italy                                                |EUROPE        |           20|
 |TW   |Chinese Taipei                                       |ASIA          |           19|
@@ -44,39 +44,39 @@ Table last updated : 2023-04-01
 |FI   |Finland                                              |EUROPE        |           14|
 |MX   |Mexico                                               |LATIN_AMERICA |           12|
 |PK   |Pakistan                                             |ASIA          |           12|
+|GH   |Ghana                                                |AFRICA        |           11|
 |ID   |Indonesia                                            |ASIA          |           11|
 |NG   |Nigeria                                              |AFRICA        |           11|
 |PE   |Peru                                                 |LATIN_AMERICA |           11|
 |ZA   |South Africa                                         |AFRICA        |           11|
 |EE   |Estonia                                              |EUROPE        |           10|
-|GH   |Ghana                                                |AFRICA        |           10|
 |MW   |Malawi                                               |AFRICA        |           10|
 |NE   |Niger                                                |AFRICA        |           10|
 |PH   |Philippines                                          |ASIA          |           10|
 |CI   |Côte d’Ivoire                                        |AFRICA        |            9|
+|GN   |Guinea                                               |AFRICA        |            9|
+|NZ   |New Zealand                                          |OCEANIA       |            9|
 |TG   |Togo                                                 |AFRICA        |            9|
+|CR   |Costa Rica                                           |LATIN_AMERICA |            8|
 |GT   |Guatemala                                            |LATIN_AMERICA |            8|
-|GN   |Guinea                                               |AFRICA        |            8|
-|NZ   |New Zealand                                          |OCEANIA       |            8|
 |BG   |Bulgaria                                             |EUROPE        |            7|
 |CN   |China                                                |ASIA          |            7|
-|CR   |Costa Rica                                           |LATIN_AMERICA |            7|
 |KZ   |Kazakhstan                                           |EUROPE        |            7|
 |KE   |Kenya                                                |AFRICA        |            7|
 |TZ   |Tanzania, United Republic of                         |AFRICA        |            7|
+|CD   |Congo, Democratic Republic of the                    |AFRICA        |            6|
 |CZ   |Czechia                                              |EUROPE        |            6|
+|GA   |Gabon                                                |AFRICA        |            6|
 |IL   |Israel                                               |EUROPE        |            6|
 |MZ   |Mozambique                                           |AFRICA        |            6|
+|NP   |Nepal                                                |ASIA          |            6|
 |SN   |Senegal                                              |AFRICA        |            6|
 |UG   |Uganda                                               |AFRICA        |            6|
 |AO   |Angola                                               |AFRICA        |            5|
-|CD   |Congo, Democratic Republic of the                    |AFRICA        |            5|
 |FJ   |Fiji                                                 |OCEANIA       |            5|
-|GA   |Gabon                                                |AFRICA        |            5|
 |GR   |Greece                                               |EUROPE        |            5|
 |HN   |Honduras                                             |LATIN_AMERICA |            5|
 |MY   |Malaysia                                             |ASIA          |            5|
-|NP   |Nepal                                                |ASIA          |            5|
 |PG   |Papua New Guinea                                     |OCEANIA       |            5|
 |TJ   |Tajikistan                                           |EUROPE        |            5|
 |UZ   |Uzbekistan                                           |EUROPE        |            5|
@@ -128,6 +128,7 @@ Table last updated : 2023-04-01
 |BO   |Bolivia (Plurinational State of)                     |LATIN_AMERICA |            1|
 |BA   |Bosnia and Herzegovina                               |EUROPE        |            1|
 |CG   |Congo                                                |AFRICA        |            1|
+|EG   |Egypt                                                |AFRICA        |            1|
 |ET   |Ethiopia                                             |AFRICA        |            1|
 |FO   |Faroe Islands                                        |EUROPE        |            1|
 |GL   |Greenland                                            |NORTH_AMERICA |            1|
@@ -187,7 +188,6 @@ Table last updated : 2023-04-01
 |CY   |Cyprus                                               |EUROPE        |            0|
 |DJ   |Djibouti                                             |AFRICA        |            0|
 |DM   |Dominica                                             |LATIN_AMERICA |            0|
-|EG   |Egypt                                                |AFRICA        |            0|
 |SV   |El Salvador                                          |LATIN_AMERICA |            0|
 |GQ   |Equatorial Guinea                                    |AFRICA        |            0|
 |ER   |Eritrea                                              |AFRICA        |            0|
