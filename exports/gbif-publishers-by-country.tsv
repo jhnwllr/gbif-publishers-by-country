@@ -1,39 +1,39 @@
 iso2	title	gbifRegion	n_publishers
 US	United States of America	NORTH_AMERICA	377
-CO	Colombia	LATIN_AMERICA	204
+CO	Colombia	LATIN_AMERICA	207
 GB	United Kingdom of Great Britain and Northern Ireland	EUROPE	181
-RU	Russian Federation	EUROPE	130
+RU	Russian Federation	EUROPE	131
 ES	Spain	EUROPE	129
 BR	Brazil	LATIN_AMERICA	116
 AU	Australia	OCEANIA	115
-FR	France	EUROPE	66
-EC	Ecuador	LATIN_AMERICA	65
-CL	Chile	LATIN_AMERICA	59
+FR	France	EUROPE	67
+EC	Ecuador	LATIN_AMERICA	66
+CL	Chile	LATIN_AMERICA	62
+AR	Argentina	LATIN_AMERICA	58
 CA	Canada	NORTH_AMERICA	57
-AR	Argentina	LATIN_AMERICA	56
 NL	Netherlands	EUROPE	46
 DE	Germany	EUROPE	44
-KR	Korea, Republic of	ASIA	42
+KR	Korea, Republic of	ASIA	43
 PL	Poland	EUROPE	40
 NO	Norway	EUROPE	38
 BJ	Benin	AFRICA	35
+BE	Belgium	EUROPE	27
 DK	Denmark	EUROPE	27
+IN	India	ASIA	27
 PT	Portugal	EUROPE	27
-BE	Belgium	EUROPE	26
 SE	Sweden	EUROPE	26
-IN	India	ASIA	25
 UA	Ukraine	EUROPE	25
 IT	Italy	EUROPE	21
 TW	Chinese Taipei	ASIA	20
 MG	Madagascar	AFRICA	18
+CM	Cameroon	AFRICA	17
 CH	Switzerland	EUROPE	17
-CM	Cameroon	AFRICA	16
+MX	Mexico	LATIN_AMERICA	16
 AT	Austria	EUROPE	14
 FI	Finland	EUROPE	14
-MX	Mexico	LATIN_AMERICA	14
+PK	Pakistan	ASIA	13
 GH	Ghana	AFRICA	12
-PK	Pakistan	ASIA	12
-GT	Guatemala	LATIN_AMERICA	11
+GT	Guatemala	LATIN_AMERICA	12
 ID	Indonesia	ASIA	11
 NG	Nigeria	AFRICA	11
 PE	Peru	LATIN_AMERICA	11
@@ -44,12 +44,13 @@ NE	Niger	AFRICA	10
 PH	Philippines	ASIA	10
 CI	Côte d’Ivoire	AFRICA	9
 GN	Guinea	AFRICA	9
+NP	Nepal	ASIA	9
+NZ	New Zealand	OCEANIA	9
 TG	Togo	AFRICA	9
 CR	Costa Rica	LATIN_AMERICA	8
-NZ	New Zealand	OCEANIA	8
+KZ	Kazakhstan	EUROPE	8
 BG	Bulgaria	EUROPE	7
 CN	China	ASIA	7
-KZ	Kazakhstan	EUROPE	7
 KE	Kenya	AFRICA	7
 TZ	Tanzania, United Republic of	AFRICA	7
 CD	Congo, Democratic Republic of the	AFRICA	6
@@ -58,8 +59,8 @@ GA	Gabon	AFRICA	6
 IL	Israel	EUROPE	6
 MY	Malaysia	ASIA	6
 MZ	Mozambique	AFRICA	6
-NP	Nepal	ASIA	6
 SN	Senegal	AFRICA	6
+TH	Thailand	ASIA	6
 UG	Uganda	AFRICA	6
 AO	Angola	AFRICA	5
 FJ	Fiji	OCEANIA	5
@@ -67,7 +68,6 @@ GR	Greece	EUROPE	5
 HN	Honduras	LATIN_AMERICA	5
 PG	Papua New Guinea	OCEANIA	5
 TJ	Tajikistan	EUROPE	5
-TH	Thailand	ASIA	5
 UZ	Uzbekistan	EUROPE	5
 VE	Venezuela (Bolivarian Republic of)	LATIN_AMERICA	5
 AM	Armenia	EUROPE	4
@@ -79,6 +79,8 @@ AD	Andorra	EUROPE	3
 BY	Belarus	EUROPE	3
 BW	Botswana	AFRICA	3
 GE	Georgia	EUROPE	3
+HK	Hong Kong	ASIA	3
+IR	Iran (Islamic Republic of)	ASIA	3
 MR	Mauritania	AFRICA	3
 NC	New Caledonia	OCEANIA	3
 SK	Slovakia	EUROPE	3
@@ -98,7 +100,6 @@ HR	Croatia	EUROPE	2
 CU	Cuba	LATIN_AMERICA	2
 GF	French Guiana	LATIN_AMERICA	2
 HT	Haiti	LATIN_AMERICA	2
-HK	Hong Kong	ASIA	2
 HU	Hungary	EUROPE	2
 IE	Ireland	EUROPE	2
 JM	Jamaica	LATIN_AMERICA	2
@@ -124,7 +125,6 @@ FO	Faroe Islands	EUROPE	1
 GL	Greenland	NORTH_AMERICA	1
 GY	Guyana	LATIN_AMERICA	1
 IS	Iceland	EUROPE	1
-IR	Iran (Islamic Republic of)	ASIA	1
 JO	Jordan	ASIA	1
 LV	Latvia	EUROPE	1
 LB	Lebanon	ASIA	1
@@ -137,6 +137,7 @@ NI	Nicaragua	LATIN_AMERICA	1
 OM	Oman	ASIA	1
 PW	Palau	OCEANIA	1
 PS	Palestine, State of	ASIA	1
+PA	Panama	LATIN_AMERICA	1
 PY	Paraguay	LATIN_AMERICA	1
 PR	Puerto Rico	LATIN_AMERICA	1
 RW	Rwanda	AFRICA	1
@@ -219,7 +220,6 @@ NR	Nauru	OCEANIA	0
 NU	Niue	OCEANIA	0
 NF	Norfolk Island	OCEANIA	0
 MP	Northern Mariana Islands	OCEANIA	0
-PA	Panama	LATIN_AMERICA	0
 PN	Pitcairn	OCEANIA	0
 QA	Qatar	ASIA	0
 RE	Réunion	AFRICA	0
