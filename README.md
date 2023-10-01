@@ -6,21 +6,21 @@
 
 Current number of registered publishers. 
 
-Table last updated : 2023-09-01
+Table last updated : 2023-10-01
 
 
 |iso2 |title                                                |gbifRegion    | n_publishers|
 |:----|:----------------------------------------------------|:-------------|------------:|
-|US   |United States of America                             |NORTH_AMERICA |          377|
+|US   |United States of America                             |NORTH_AMERICA |          381|
 |CO   |Colombia                                             |LATIN_AMERICA |          207|
-|GB   |United Kingdom of Great Britain and Northern Ireland |EUROPE        |          181|
+|GB   |United Kingdom of Great Britain and Northern Ireland |EUROPE        |          183|
+|AU   |Australia                                            |OCEANIA       |          136|
 |RU   |Russian Federation                                   |EUROPE        |          131|
 |ES   |Spain                                                |EUROPE        |          129|
 |BR   |Brazil                                               |LATIN_AMERICA |          116|
-|AU   |Australia                                            |OCEANIA       |          115|
 |FR   |France                                               |EUROPE        |           67|
 |EC   |Ecuador                                              |LATIN_AMERICA |           66|
-|CL   |Chile                                                |LATIN_AMERICA |           62|
+|CL   |Chile                                                |LATIN_AMERICA |           63|
 |AR   |Argentina                                            |LATIN_AMERICA |           58|
 |CA   |Canada                                               |NORTH_AMERICA |           57|
 |NL   |Netherlands                                          |EUROPE        |           46|
@@ -46,18 +46,18 @@ Table last updated : 2023-09-01
 |PK   |Pakistan                                             |ASIA          |           13|
 |GH   |Ghana                                                |AFRICA        |           12|
 |GT   |Guatemala                                            |LATIN_AMERICA |           12|
+|PE   |Peru                                                 |LATIN_AMERICA |           12|
 |ID   |Indonesia                                            |ASIA          |           11|
 |NG   |Nigeria                                              |AFRICA        |           11|
-|PE   |Peru                                                 |LATIN_AMERICA |           11|
 |ZA   |South Africa                                         |AFRICA        |           11|
 |EE   |Estonia                                              |EUROPE        |           10|
 |MW   |Malawi                                               |AFRICA        |           10|
+|NZ   |New Zealand                                          |OCEANIA       |           10|
 |NE   |Niger                                                |AFRICA        |           10|
 |PH   |Philippines                                          |ASIA          |           10|
 |CI   |Côte d’Ivoire                                        |AFRICA        |            9|
 |GN   |Guinea                                               |AFRICA        |            9|
 |NP   |Nepal                                                |ASIA          |            9|
-|NZ   |New Zealand                                          |OCEANIA       |            9|
 |TG   |Togo                                                 |AFRICA        |            9|
 |CR   |Costa Rica                                           |LATIN_AMERICA |            8|
 |KZ   |Kazakhstan                                           |EUROPE        |            8|
@@ -86,6 +86,7 @@ Table last updated : 2023-09-01
 |DO   |Dominican Republic                                   |LATIN_AMERICA |            4|
 |JP   |Japan                                                |ASIA          |            4|
 |SI   |Slovenia                                             |EUROPE        |            4|
+|VN   |Viet Nam                                             |ASIA          |            4|
 |ZW   |Zimbabwe                                             |AFRICA        |            4|
 |AD   |Andorra                                              |EUROPE        |            3|
 |BY   |Belarus                                              |EUROPE        |            3|
@@ -100,7 +101,6 @@ Table last updated : 2023-09-01
 |TT   |Trinidad and Tobago                                  |LATIN_AMERICA |            3|
 |UY   |Uruguay                                              |LATIN_AMERICA |            3|
 |VU   |Vanuatu                                              |OCEANIA       |            3|
-|VN   |Viet Nam                                             |ASIA          |            3|
 |AQ   |Antarctica                                           |ANTARCTICA    |            2|
 |BD   |Bangladesh                                           |ASIA          |            2|
 |BB   |Barbados                                             |LATIN_AMERICA |            2|
