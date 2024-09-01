@@ -6,24 +6,24 @@
 
 Current number of registered publishers. 
 
-Table last updated : 2024-08-01
+Table last updated : 2024-09-01
 
 
 |iso2 |title                                                |gbifRegion    | n_publishers|
 |:----|:----------------------------------------------------|:-------------|------------:|
-|US   |United States of America                             |NORTH_AMERICA |          404|
-|CO   |Colombia                                             |LATIN_AMERICA |          231|
+|US   |United States of America                             |NORTH_AMERICA |          408|
+|CO   |Colombia                                             |LATIN_AMERICA |          232|
 |GB   |United Kingdom of Great Britain and Northern Ireland |EUROPE        |          190|
 |AU   |Australia                                            |OCEANIA       |          137|
 |ES   |Spain                                                |EUROPE        |          133|
-|RU   |Russian Federation                                   |EUROPE        |          131|
+|RU   |Russian Federation                                   |EUROPE        |          132|
 |BR   |Brazil                                               |LATIN_AMERICA |          119|
 |FR   |France                                               |EUROPE        |           77|
 |EC   |Ecuador                                              |LATIN_AMERICA |           74|
 |CL   |Chile                                                |LATIN_AMERICA |           71|
 |AR   |Argentina                                            |LATIN_AMERICA |           60|
-|CA   |Canada                                               |NORTH_AMERICA |           58|
-|NL   |Netherlands                                          |EUROPE        |           51|
+|CA   |Canada                                               |NORTH_AMERICA |           59|
+|NL   |Netherlands                                          |EUROPE        |           53|
 |DE   |Germany                                              |EUROPE        |           47|
 |PL   |Poland                                               |EUROPE        |           46|
 |KR   |Korea, Republic of                                   |ASIA          |           45|
@@ -34,7 +34,7 @@ Table last updated : 2024-08-01
 |BE   |Belgium                                              |EUROPE        |           29|
 |PT   |Portugal                                             |EUROPE        |           28|
 |SE   |Sweden                                               |EUROPE        |           28|
-|UA   |Ukraine                                              |EUROPE        |           27|
+|UA   |Ukraine                                              |EUROPE        |           28|
 |IT   |Italy                                                |EUROPE        |           26|
 |TW   |Chinese Taipei                                       |ASIA          |           26|
 |MG   |Madagascar                                           |AFRICA        |           18|
@@ -48,8 +48,8 @@ Table last updated : 2024-08-01
 |ID   |Indonesia                                            |ASIA          |           13|
 |PK   |Pakistan                                             |ASIA          |           13|
 |PE   |Peru                                                 |LATIN_AMERICA |           13|
+|CR   |Costa Rica                                           |LATIN_AMERICA |           12|
 |NG   |Nigeria                                              |AFRICA        |           12|
-|CR   |Costa Rica                                           |LATIN_AMERICA |           11|
 |NP   |Nepal                                                |ASIA          |           11|
 |PH   |Philippines                                          |ASIA          |           11|
 |ZA   |South Africa                                         |AFRICA        |           11|
@@ -77,6 +77,7 @@ Table last updated : 2024-08-01
 |TH   |Thailand                                             |ASIA          |            6|
 |UG   |Uganda                                               |AFRICA        |            6|
 |AO   |Angola                                               |AFRICA        |            5|
+|HR   |Croatia                                              |EUROPE        |            5|
 |DO   |Dominican Republic                                   |LATIN_AMERICA |            5|
 |FJ   |Fiji                                                 |OCEANIA       |            5|
 |HN   |Honduras                                             |LATIN_AMERICA |            5|
@@ -87,7 +88,6 @@ Table last updated : 2024-08-01
 |UZ   |Uzbekistan                                           |EUROPE        |            5|
 |VN   |Viet Nam                                             |ASIA          |            5|
 |AM   |Armenia                                              |EUROPE        |            4|
-|HR   |Croatia                                              |EUROPE        |            4|
 |HU   |Hungary                                              |EUROPE        |            4|
 |JP   |Japan                                                |ASIA          |            4|
 |ZW   |Zimbabwe                                             |AFRICA        |            4|
