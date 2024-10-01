@@ -1,37 +1,37 @@
 iso2	title	gbifRegion	n_publishers
-US	United States of America	NORTH_AMERICA	408
+US	United States of America	NORTH_AMERICA	409
 CO	Colombia	LATIN_AMERICA	232
-GB	United Kingdom of Great Britain and Northern Ireland	EUROPE	190
-AU	Australia	OCEANIA	137
-ES	Spain	EUROPE	133
+GB	United Kingdom of Great Britain and Northern Ireland	EUROPE	193
+AU	Australia	OCEANIA	135
+ES	Spain	EUROPE	135
 RU	Russian Federation	EUROPE	132
-BR	Brazil	LATIN_AMERICA	119
+BR	Brazil	LATIN_AMERICA	120
 FR	France	EUROPE	77
 EC	Ecuador	LATIN_AMERICA	74
 CL	Chile	LATIN_AMERICA	71
-AR	Argentina	LATIN_AMERICA	60
-CA	Canada	NORTH_AMERICA	59
-NL	Netherlands	EUROPE	53
+AR	Argentina	LATIN_AMERICA	61
+CA	Canada	NORTH_AMERICA	60
+NL	Netherlands	EUROPE	54
 DE	Germany	EUROPE	47
 PL	Poland	EUROPE	46
 KR	Korea, Republic of	ASIA	45
 NO	Norway	EUROPE	41
-IN	India	ASIA	37
-BJ	Benin	AFRICA	35
+IN	India	ASIA	38
+BJ	Benin	AFRICA	36
 DK	Denmark	EUROPE	30
+UA	Ukraine	EUROPE	30
 BE	Belgium	EUROPE	29
 PT	Portugal	EUROPE	28
 SE	Sweden	EUROPE	28
-UA	Ukraine	EUROPE	28
 IT	Italy	EUROPE	26
 TW	Chinese Taipei	ASIA	26
+CM	Cameroon	AFRICA	18
 MG	Madagascar	AFRICA	18
 CH	Switzerland	EUROPE	18
-CM	Cameroon	AFRICA	17
 MX	Mexico	LATIN_AMERICA	17
 AT	Austria	EUROPE	15
 GT	Guatemala	LATIN_AMERICA	15
-NZ	New Zealand	OCEANIA	14
+NZ	New Zealand	OCEANIA	15
 GH	Ghana	AFRICA	13
 ID	Indonesia	ASIA	13
 PK	Pakistan	ASIA	13
@@ -64,6 +64,7 @@ MZ	Mozambique	AFRICA	6
 SN	Senegal	AFRICA	6
 TH	Thailand	ASIA	6
 UG	Uganda	AFRICA	6
+UZ	Uzbekistan	EUROPE	6
 AO	Angola	AFRICA	5
 HR	Croatia	EUROPE	5
 DO	Dominican Republic	LATIN_AMERICA	5
@@ -73,7 +74,6 @@ PG	Papua New Guinea	OCEANIA	5
 SK	Slovakia	EUROPE	5
 SI	Slovenia	EUROPE	5
 TJ	Tajikistan	EUROPE	5
-UZ	Uzbekistan	EUROPE	5
 VN	Viet Nam	ASIA	5
 AM	Armenia	EUROPE	4
 HU	Hungary	EUROPE	4
@@ -82,6 +82,7 @@ ZW	Zimbabwe	AFRICA	4
 BD	Bangladesh	ASIA	3
 BY	Belarus	EUROPE	3
 BO	Bolivia (Plurinational State of)	LATIN_AMERICA	3
+BA	Bosnia and Herzegovina	EUROPE	3
 BW	Botswana	AFRICA	3
 KH	Cambodia	ASIA	3
 GE	Georgia	EUROPE	3
@@ -97,7 +98,6 @@ DZ	Algeria	AFRICA	2
 AD	Andorra	EUROPE	2
 AQ	Antarctica	ANTARCTICA	2
 BB	Barbados	LATIN_AMERICA	2
-BA	Bosnia and Herzegovina	EUROPE	2
 BF	Burkina Faso	AFRICA	2
 BI	Burundi	AFRICA	2
 CU	Cuba	LATIN_AMERICA	2
