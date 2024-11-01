@@ -1,18 +1,18 @@
 iso2	title	gbifRegion	n_publishers
-US	United States of America	NORTH_AMERICA	409
-CO	Colombia	LATIN_AMERICA	232
-GB	United Kingdom of Great Britain and Northern Ireland	EUROPE	193
+US	United States of America	NORTH_AMERICA	410
+CO	Colombia	LATIN_AMERICA	234
+GB	United Kingdom of Great Britain and Northern Ireland	EUROPE	195
 AU	Australia	OCEANIA	135
 ES	Spain	EUROPE	135
 RU	Russian Federation	EUROPE	132
 BR	Brazil	LATIN_AMERICA	120
-FR	France	EUROPE	77
+FR	France	EUROPE	78
 EC	Ecuador	LATIN_AMERICA	74
 CL	Chile	LATIN_AMERICA	71
-AR	Argentina	LATIN_AMERICA	61
+AR	Argentina	LATIN_AMERICA	62
 CA	Canada	NORTH_AMERICA	60
-NL	Netherlands	EUROPE	54
-DE	Germany	EUROPE	47
+NL	Netherlands	EUROPE	55
+DE	Germany	EUROPE	48
 PL	Poland	EUROPE	46
 KR	Korea, Republic of	ASIA	45
 NO	Norway	EUROPE	41
@@ -25,18 +25,18 @@ PT	Portugal	EUROPE	28
 SE	Sweden	EUROPE	28
 IT	Italy	EUROPE	26
 TW	Chinese Taipei	ASIA	26
+CH	Switzerland	EUROPE	19
 CM	Cameroon	AFRICA	18
 MG	Madagascar	AFRICA	18
-CH	Switzerland	EUROPE	18
 MX	Mexico	LATIN_AMERICA	17
 AT	Austria	EUROPE	15
 GT	Guatemala	LATIN_AMERICA	15
 NZ	New Zealand	OCEANIA	15
+CR	Costa Rica	LATIN_AMERICA	14
+PE	Peru	LATIN_AMERICA	14
 GH	Ghana	AFRICA	13
 ID	Indonesia	ASIA	13
 PK	Pakistan	ASIA	13
-PE	Peru	LATIN_AMERICA	13
-CR	Costa Rica	LATIN_AMERICA	12
 NG	Nigeria	AFRICA	12
 NP	Nepal	ASIA	11
 PH	Philippines	ASIA	11
@@ -51,10 +51,10 @@ CI	Côte d’Ivoire	AFRICA	9
 FI	Finland	EUROPE	9
 TG	Togo	AFRICA	9
 KE	Kenya	AFRICA	8
+TZ	Tanzania, United Republic of	AFRICA	8
 CN	China	ASIA	7
 CZ	Czechia	EUROPE	7
 MY	Malaysia	ASIA	7
-TZ	Tanzania, United Republic of	AFRICA	7
 VE	Venezuela (Bolivarian Republic of)	LATIN_AMERICA	7
 CD	Congo, Democratic Republic of the	AFRICA	6
 GA	Gabon	AFRICA	6
@@ -70,6 +70,7 @@ HR	Croatia	EUROPE	5
 DO	Dominican Republic	LATIN_AMERICA	5
 FJ	Fiji	OCEANIA	5
 HN	Honduras	LATIN_AMERICA	5
+IR	Iran (Islamic Republic of)	ASIA	5
 PG	Papua New Guinea	OCEANIA	5
 SK	Slovakia	EUROPE	5
 SI	Slovenia	EUROPE	5
@@ -87,7 +88,6 @@ BW	Botswana	AFRICA	3
 KH	Cambodia	ASIA	3
 GE	Georgia	EUROPE	3
 HK	Hong Kong	ASIA	3
-IR	Iran (Islamic Republic of)	ASIA	3
 MR	Mauritania	AFRICA	3
 NC	New Caledonia	OCEANIA	3
 SR	Suriname	LATIN_AMERICA	3
@@ -128,6 +128,7 @@ CG	Congo	AFRICA	1
 ET	Ethiopia	AFRICA	1
 FO	Faroe Islands	EUROPE	1
 GL	Greenland	NORTH_AMERICA	1
+GG	Guernsey	EUROPE	1
 GY	Guyana	LATIN_AMERICA	1
 IS	Iceland	EUROPE	1
 JO	Jordan	ASIA	1
@@ -191,7 +192,6 @@ GI	Gibraltar	EUROPE	0
 GD	Grenada	LATIN_AMERICA	0
 GP	Guadeloupe	LATIN_AMERICA	0
 GU	Guam	OCEANIA	0
-GG	Guernsey	EUROPE	0
 GW	Guinea-Bissau	AFRICA	0
 HM	Heard Island and McDonald Islands	ANTARCTICA	0
 VA	Holy See	EUROPE	0
